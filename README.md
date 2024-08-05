@@ -68,7 +68,6 @@ The project is organized into several key directories and files, each serving a 
 
 - **API Integration:**
   - **`actions.tsx`:** Defines actions for interacting with external APIs.
-  - **`env.tsx`:** Manages environment variables for API endpoints.
 
 - **Utility Functions:**
   - **`currency.tsx, fileUtils.tsx, getObjectName.tsx`:** Various utility functions for handling currency formatting, file operations, and object name retrieval.
